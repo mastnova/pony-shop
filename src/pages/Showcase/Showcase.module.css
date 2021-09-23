@@ -1,0 +1,14 @@
+.showcase {
+  text-align: center;
+}
+
+.content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.pagination {
+  display: inline-block;
+  margin: 10px 0 30px;
+}

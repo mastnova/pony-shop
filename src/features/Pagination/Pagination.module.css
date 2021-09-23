@@ -1,0 +1,20 @@
+.pagination {
+  display: flex;
+  align-items: center;
+}
+
+.pagination :global(span) {
+  display: inline-block;
+  text-align: center;
+  padding: 5px;
+  line-height: 10px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.pagination .active {
+  background-color: #057fd6;
+  color: #fff;
+  cursor: default;
+  margin: 0 5px;
+}

@@ -1,0 +1,38 @@
+.content {
+  text-align: center;
+}
+
+@media (min-width: 450px) { 
+  .content {
+    width: 450px;
+  }
+}
+
+.productRow {
+  padding: 10px;
+  border-bottom: 1px solid #c3c3c3;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.productRow:first-child {
+  border-top: 1px solid #c3c3c3;
+}
+
+.productPrice {
+  margin-right: 10px;
+  font-weight: bold;
+}
+
+.summary {
+  padding: 10px;
+  margin: 5px 0;
+  display: flex;
+  justify-content: space-between;
+  font-size: 20px;
+}
+
+.alert {
+  color: red;
+}
