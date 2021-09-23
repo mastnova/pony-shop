@@ -1,6 +1,6 @@
 # Pony shop
 
-Демо проекта на github pages -  https://mastnova.github.io/pony_shop
+Демо проекта на github pages -  https://mastnova.github.io/pony-shop
 
 Сопроводительная записка - https://docs.google.com/document/d/1zYzVYNFgkvk4p-GIRi4YhUx_hNGquiRabZBTBvL5Kbo/edit?usp=sharing
 
